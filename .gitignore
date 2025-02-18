@@ -1,0 +1,12 @@
+# Node.js dependencies
+/node_modules/
+
+# Optional npm cache folder
+.npm/
+
+# Environment files (e.g., secrets, configuration)
+.env
+.env.local
+.env.development
+.env.test
+.env.production
